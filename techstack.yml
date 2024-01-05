@@ -1,7 +1,8 @@
 repo_name: ayungavis/react-with-redux
-report_id: 24888bcbe47d819b9c09a0270a350ba3
+report_id: abafbf597793bb6cc1da84f1b6907eee
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T13:21:06+00:00'
+timestamp: '2024-01-05T08:34:18+00:00'
 requested_by: ayungavis
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/ayungavis/react-with-redux
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ayungavis/react-with-redux/blob/main/package.json
   detection_source: package.json
   last_updated_by: ayungavis
   last_updated_on: 2021-08-06 23:57:15.000000000 Z
@@ -37,6 +40,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/ayungavis/react-with-redux
   detection_source: Repo Metadata
 - name: Node.js
   description: A platform built on Chrome's JavaScript runtime for easily building
@@ -47,6 +51,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/ayungavis/react-with-redux/blob/main/package.json
   detection_source: package.json
   last_updated_by: ayungavis
   last_updated_on: 2021-08-06 23:36:34.000000000 Z
@@ -85,6 +90,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/ayungavis/react-with-redux/blob/main/public/robots.txt
   detection_source: public/robots.txt
   last_updated_by: ayungavis
   last_updated_on: 2021-08-06 23:36:34.000000000 Z
@@ -97,6 +103,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/ayungavis/react-with-redux/blob/main/package.json
   detection_source: package.json
   last_updated_by: ayungavis
   last_updated_on: 2021-08-06 23:36:34.000000000 Z
@@ -108,6 +115,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ayungavis/react-with-redux
   detection_source: Repo Metadata
 - name: Jest
   description: Painless JavaScript Unit Testing
@@ -131,6 +139,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/ayungavis/react-with-redux/blob/main/yarn.lock
   detection_source: yarn.lock
   last_updated_by: ayungavis
   last_updated_on: 2021-08-06 23:36:34.000000000 Z
@@ -142,6 +151,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/ayungavis/react-with-redux/blob/main/package.json
   detection_source: package.json
   last_updated_by: ayungavis
   last_updated_on: 2021-08-06 23:36:34.000000000 Z
@@ -151,6 +161,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/ayungavis/react-with-redux/blob/main/public/index.html
   detection_source: public/index.html
   last_updated_by: ayungavis
   last_updated_on: 2021-08-06 23:36:34.000000000 Z
@@ -162,6 +173,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/ayungavis/react-with-redux/blob/main/public/robots.txt
   detection_source: public/robots.txt
   last_updated_by: ayungavis
   last_updated_on: 2021-08-06 23:36:34.000000000 Z
